@@ -1,2 +1,4 @@
+Flask
+requests
+numpy
 
-from flask import Flask, render_template
